@@ -5,7 +5,7 @@ Project: Dice roll game
 Operation: The program prompt for the number of players [range from 2 or more]
            It then prompt for the name of players. It instruct players to take turn
            rolling the dice by prompting for number of times to help automatically roll it.
-           [A high input number of dice roll, does not return a high total number].
+           [A high input number of dice roll, does not guaranty a high total number in return].
            It display the result in respective to each player, the player with highest number
            is the winner.
 
